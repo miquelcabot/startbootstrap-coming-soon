@@ -212,3 +212,8 @@ video {
 .input {
   font-weight: 300 !important;
 }
+
+a:link, a:visited, a:hover, a:active {
+  color: white;
+  font-weight: bold;
+}
